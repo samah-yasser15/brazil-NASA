@@ -1,0 +1,15 @@
+{
+  "validation_days": 90,
+  "best_iteration": 282,
+  "last_historical_date": "2025-12-31",
+  "min_historical_date": "2018-01-01",
+  "total_records": 13335797,
+  "chosen_method": "day-by-day XGBoost model (90-day horizon) + recurring majority lat/lon zones",
+  "chosen_forecast": {
+    "r2": 0.2937703535409184,
+    "mae": 132.17345920138888,
+    "rmse": 166.34268846288586,
+    "mean_actual": 652.5666666666667,
+    "mae_pct_of_mean": 20.25
+  }
+}
